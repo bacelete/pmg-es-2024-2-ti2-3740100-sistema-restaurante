@@ -1,25 +1,27 @@
 # TITULO DO PROJETO
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+**Arthur Henrique Teixeira e Silva Bacelete, email do aluno 2**
 
-**Nome completo do Aluno 2, email do aluno 2**
+**Davi Benjamim Guimarães, email do aluno 2**
 
-**Nome completo do Aluno 3, email do aluno 3**
+**Gabriel Reis Lebron de Oliveira, email do aluno 3**
 
-**Nome completo do Aluno 4, email do aluno 4**
+**João Pedro Tavares e Amorim, email do aluno 4**
 
-**Nome completo do Aluno 5, email do aluno 5**
+**Lucas José Lopes Ferreira, email do aluno 5**
 
-**Nome completo do Aluno 6, email do aluno 6**
+**Luís Othávio Rangel, email do aluno 6**
+
+**Mateus Rodrigues Costa, mateuscosta@nacasa.com.br**
 
 ---
 
 Professores:
 
-** Prof. Nome do Prof 1 **
+** Prof. Michelle Hanne Soares de Andrade **
 
-** Prof. Nome do Prof 2 **
+** Prof. Danilo Boechat Seufitelli **
 
 ** Prof. Nome do Prof 3 **
 
