@@ -13,8 +13,8 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Professor
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Michelle Hanne Soares de Andrade
+* Danilo Boechat Seufitelli
 * Nome completo do professor 3
 
 ## Instruções de utilização
