@@ -9,7 +9,7 @@
 
 **João Pedro Tavares e Amorim, email do aluno 4**
 
-**Lucas José Lopes Ferreira, email do aluno 5**
+**Lucas José Lopes Ferreira, lucasjlopesferreira@gmail.com
 
 **Luís Othávio Rangel, email do aluno 6**
 
@@ -63,8 +63,9 @@ O objetivo deve ser bem direto, específico e definido com verbos de ação (ela
 
 #### 1.3.1 Objetivos específicos
 
-_Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde você vai querer 
-concentrar sua prática investigativa, ou como você irá aprofundar seu trabalho._
+Otimizar o Processo de Atendimento e Entrega de Pedidos: Investigar e implementar funcionalidades que permitam que os garçons e a equipe da cozinha se comuniquem de maneira mais eficaz, reduzam o tempo de espera dos clientes e garantam que os pedidos sejam entregues corretamente. Isso pode incluir o uso de dispositivos móveis para registrar pedidos em tempo real e a integração direta com a cozinha, onde os chefs podem visualizar e organizar os pedidos em ordem de prioridade.
+
+Melhorar a Gestão de Estoque e Reduzir Desperdícios:  Desenvolver e implementar um módulo que rastreie o uso de ingredientes em tempo real, permitindo que os restaurantes ajustem as compras com base na demanda. A pesquisa poderia se concentrar em como integrar sensores IoT para monitorar automaticamente o estoque e alertar os gerentes quando determinados ingredientes estão baixos, bem como gerar relatórios para otimizar o uso de recursos e reduzir o desperdício de alimentos.
 
 ### 1.4 Justificativas
 
