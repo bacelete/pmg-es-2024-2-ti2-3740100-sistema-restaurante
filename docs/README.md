@@ -3,7 +3,7 @@
 
 **Arthur Henrique Teixeira e Silva Bacelete, email do aluno 2**
 
-**Davi Benjamim Guimarães, email do aluno 2**
+**Davi Benjamim Guimarães, davibg2005@gmail.com**
 
 **Gabriel Reis Lebron de Oliveira, email do aluno 3**
 
@@ -41,7 +41,7 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
 ## 1. Introdução
 
-_Apresente uma frase introdutória definindo o que será apresentado._
+O nosso projeto se trata de um sistema de gerenciamento de restaurante.
 
 ### 1.1 Contextualização
 
