@@ -74,7 +74,7 @@ desenvolvimento do seu trabalho e, caso deseje, destaque alguma contribuição d
 
 ## 2. Participantes do processo
 
-Os principais participantes dos processos de gestão do nosso sistema restaurante são: funcionários (incluindo garçons, cozinheiros, caixa, gerente, etc.) e clientes. Não há um perfil definido para os usuários, o nosso sistema atende os mais variados tipos de clientes e funcionários.
+Os principais participantes do processo de gestão do nosso sistema restaurante são: funcionários (incluindo garçons, cozinheiros, caixa, gerente, etc.) e clientes. Não há um perfil definido para os usuários, o nosso sistema atende aos mais variados tipos de clientes e funcionários.
 
 ## 3. Modelagem do processo de negócio
 
