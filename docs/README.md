@@ -74,7 +74,7 @@ desenvolvimento do seu trabalho e, caso deseje, destaque alguma contribuição d
 
 ## 2. Participantes do processo
 
-_Apresente aqui os perfis dos usuários-chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários. Apresente claramente o papel a ser desempenhado por cada usuário._
+Os principais participantes dos processos de gestão do nosso sistema restaurante são: funcionários (incluindo garçons, cozinheiros, caixa, gerente, etc.) e clientes. Não há um perfil definido para os usuários, o nosso sistema atende os mais variados tipos de clientes e funcionários.
 
 ## 3. Modelagem do processo de negócio
 
