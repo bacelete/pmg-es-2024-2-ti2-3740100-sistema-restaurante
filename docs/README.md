@@ -1,7 +1,7 @@
 # TITULO DO PROJETO
 
 
-**Arthur Henrique Teixeira e Silva Bacelete, email do aluno 2**
+**Arthur Henrique Teixeira e Silva Bacelete, arthurbt2005@gmail.com**
 
 **Davi Benjamim Guimarães, davibg2005@gmail.com**
 
